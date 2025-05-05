@@ -1,8 +1,8 @@
 {
 
-"BOT_NAME": "MALVIN XD",
-"VERSION": "3.5.0",
-"CREATED BY": "kingmalvin7",
+"BOT_NAME": "MALVIN-XD",
+"VERSION": "4.0.0",
+"CREATED BY": "XdKing2",
   
 "replyMsg": {
   
@@ -20,7 +20,7 @@
 
   "own_cmd": "*This is Owner Commad ‼*",
 
-  "pre_cmd": "`Your not premium user` 🚫\n\n* Contact to buy a premium connection for Rs.100  for a month \n\n* https://wa.me/263714757857?text=GET_PREMIUIM_CONNECTION👾",
+  "pre_cmd": "`Your not premium user` 🚫\n\n* Contact to buy a premium connection for Rs.100  for a month \n\n* https://wa.me/263780166288?text=GET_PREMIUIM_CONNECTION👾",
 
   "ald_set": "*Already set* 🙂✅",
 
@@ -44,7 +44,7 @@
 
   "ald_reapprove_alljid": "All Jid approve reject ✔",
 
-  "band_users": "❌ *You are banned from using Commands.....*\n\n*_Please contact MALVIN XD Bot Owner Remove your Ban_* 👨‍🔧\n",
+  "band_users": "❌ *You are banned from using Commands.....*\n\n*_Please contact UD MD Bot Owner Remove your Ban_* 👨‍🔧\n",
 
   "erro": "Error" 
 }
